@@ -1,0 +1,7 @@
+{
+  "name": "test2",
+  "version": "1",
+  "scripts": {
+    "test": "echo 2"
+  }
+}
